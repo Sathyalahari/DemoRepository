@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-25 08:31:49</sys_created_on>
-        <sys_id>1db8b2f4dbd23300f122e1bb4b9619b1</sys_id>
+        <sys_id>b10363b0dbd63300f122e1bb4b961915</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Field2</sys_name>
         <sys_package display_value="Demo" source="x_363264_demo">1d38bab4dbd23300f122e1bb4b9619f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Demo">1d38bab4dbd23300f122e1bb4b9619f5</sys_scope>
         <sys_update_name>sys_dictionary_x_363264_demo_sampletable_field2</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-25 08:31:49</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-06-25 11:35:56</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
